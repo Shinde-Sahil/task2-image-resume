@@ -1,0 +1,21 @@
+#SAHIL {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+#work-experience-one{
+    display: flex;
+}
+
+
+#company-name{
+    display:flex;
+    
+}
+#EDUCATION{
+    display: flex;
+}
+#SAHIL{
+    background-color: cornflowerblue;
+}
